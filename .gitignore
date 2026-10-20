@@ -1,0 +1,8 @@
+.env
+myvenv/
+Neo4j-*.txt
+data/
+*.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
